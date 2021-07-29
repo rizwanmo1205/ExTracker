@@ -1,0 +1,2 @@
+rootProject.name = "ExTracker"
+include ':app'
